@@ -103,7 +103,7 @@ DisableAutoView = true
 PreferNickname = false
 
 # Disable showing parent post / replies
-HideReplies = false
+HideReplies = true 
 
 # Shorten replies to approximately this length
 ShortenRepliesTo = 0
